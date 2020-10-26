@@ -1,0 +1,40 @@
+
+div {
+  border-radius: 5px;
+}
+#title {
+  margin-left: 3%;
+}
+
+
+.stuff {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  height: 1000px;
+}
+
+p, li {
+ font-family: "Montserrat", sans-serif;
+font-color:"#0bb5f4";
+list-style-type:square;
+}
+
+.head {
+color: #0bb5f4;
+  font-size: 20px;
+font-weight: bold;
+}
+
+#name {
+   font-family: "Montserrat", sans-serif;
+  float: right;
+  margin-top: 10px;
+  margin-right: 4%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
